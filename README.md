@@ -21,6 +21,6 @@ Step2. Copy The Source Code And Place Into Your Interpreter.
 
 Step3. Follow Easy Screen Instructions And Enjoy !!
 
-Note - It Generates Log Files In Directory ' D:\ReminderApp\LogFiles ' Which is Easily Is Readable By User.
+Note - It Generates Log Files In Directory ' D:\ReminderApp\LogFiles ' Which is Easily Readable By User.
 
 Thank You 👻 
